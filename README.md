@@ -61,7 +61,7 @@ This project builds a complete text classification pipeline:
 
 ```bash
 git clone https://github.com/DU-0408/Sentiment-Analyser.git
-cd sentiment-analysis-linear-classifiers
+cd Sentiment-Analyser
 pip install numpy matplotlib
 ```
 
